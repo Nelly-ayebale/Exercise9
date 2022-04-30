@@ -68,7 +68,7 @@ class DemonstrationException{
                 }
         }
         else {
-                System.out.println("End of  program");
+                System.out.println("End of program");
         }
     }
 }
